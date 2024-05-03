@@ -56,7 +56,7 @@
             display:'inline',
             prices: 250000
         },
-        flashs: { flash : 'jack'}
+        flashs: { flash : 'jackg'}
     }
 
 }
